@@ -1,6 +1,6 @@
 
 #fosforos.php
-use = ssl://sitename.domain/path/filename.php?FosforoS
+// use = ssl://sitename.domain/path/filename.php?FosforoS
 
 #bsmr.php
 
